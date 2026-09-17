@@ -8,3 +8,4 @@
 # นักเรียนเขียนโค้ดต่อจากบรรทัดนี้
 price = float(input())
 is_member = int(input())
+if is_price - 10% :
